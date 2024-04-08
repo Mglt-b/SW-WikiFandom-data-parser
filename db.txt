@@ -1,545 +1,126 @@
-Slime; Fire
-Forest Keeper; Fire
-Mushroom; Fire
-Ghost; Fire
-Mimick; Fire
-Horned Frog; Fire
-Sandman; Fire
-Maned Boar; Fire
-Monster Flower; Fire
-Surprise Box; Fire
-Skull Soldier; Fire
-Mischievous Bat; Fire
-Battle Scorpion; Fire
-Low Elemental; Fire
-Imp; Fire
-Pixie; Fire
-Yeti; Fire
-Hellhound; Fire
-Warbear; Fire
-Elemental; Fire
-Garuda; Fire
-Harpu; Fire
-Howl; Fire
-Fairy; Fire
-Harpy; Fire
-Inugami; Fire
-Salamander; Fire
-Serpent; Fire
-Golem; Fire
-Griffon; Fire
-Inferno; Fire
-High Elemental; Fire
-Bearman; Fire
-Werewolf; Fire
-Viking; Fire
-Amazon; Fire
-Martial Cat; Fire
-Vagabond; Fire
-Magical Archer; Fire
-Bounty Hunter; Fire
-Imp Champion; Fire
-Mystic Witch; Fire
-Grim Reaper; Fire
-Living Armor; Fire
-Drunken Master; Fire
-Minotauros; Fire
-Lizardman; Fire
-Taoist; Fire
-Beast Hunter; Fire
-Penguin Knight; Fire
-Battle Mammoth; Fire
-Cow Girl; Fire
-Charger Shark; Fire
-Martial Artist; Fire
-Mummy; Fire
-Frankenstein; Fire
-Elven Ranger; Fire
-Harg; Fire
-Giant Warrior; Fire
-Nine-tailed Fox; Fire
-Undine; Fire
-Sylph; Fire
-Sylphid; Fire
-Succubus; Fire
-Joker; Fire
-Ninja; Fire
-Pierret; Fire
-Phantom Thief; Fire
-Vampire; Fire
-Epikion Priest; Fire
-Rakshasa; Fire
-Death Knight; Fire
-Lich; Fire
-Samurai; Fire
-Kung Fu Girl; Fire
-Brownie Magician; Fire
-Kobold Bomber; Fire
-Sky Dancer; Fire
-Barbaric King; Fire
-Pirate Captain; Fire
-Mermaid; Fire
-Magic Knight; Fire
-Assassin; Fire
-Neostone Fighter; Fire
-Neostone Agent; Fire
-Anubis; Fire
-Horus; Fire
-Jack-o'-lantern; Fire
-Dice Magician; Fire
-Harp Magician; Fire
-Chakram Dancer; Fire
-Boomerang Warrior; Fire
-Dryad; Fire
-Sniper Mk.I; Fire
-Cannon Girl; Fire
-Gargoyle; Fire
-String Master; Fire
-Poison Master; Fire
-Blade Dancer; Fire
-Onimusha; Fire
-ROBO; Fire
-Rune Blacksmith; Fire
-Hypnomeow; Fire
-Black Tea Bunny; Fire
-Choco Knight; Fire
-Mercenary Queen; Fire
-Asura; Fire
-Dokkaebi Princess and Sapsaree; Fire
-Valkyrja; Fire
-Dragon; Fire
-Phoenix; Fire
-Chimera; Fire
-Oracle; Fire
-Occult Girl; Fire
-Dragon Knight; Fire
-Monkey King; Fire
-Archangel; Fire
-Beast Monk; Fire
-Hell Lady; Fire
-Pioneer; Fire
-Polar Queen; Fire
-Ifrit; Fire
-Sea Emperor; Fire
-Desert Queen; Fire
-Fairy King; Fire
-Panda Warrior; Fire
-Unicorn; Fire
-Paladin; Fire
-Druid; Fire
-Lightning Emperor; Fire
-Demon; Fire
-Beast Rider; Fire
-Art Master; Fire
-Striker; Fire
-Shadow Claw; Fire
-Slayer; Fire
-Onmyouji; Fire
-Mage; Fire
-Sky Surfer; Fire
-Totemist; Fire
-Weapon Master; Fire
-Shadowcaster; Fire
-Battle Angel; Fire
-Pudding Princess; Fire
-Macaron Guard; Fire
-Puppeteer; Fire
-Steel Commander; Fire
-Desert Warrior; Fire
-Gladiatrix; Fire
-Indra; Fire
-Devil Maiden; Fire
-Dokkaebi Lord; Fire
-Twin Angels; Fire
-Homunculus; Fire
-DHALSIM; Fire
-CHUN-LI; Fire
-Espresso Cookie; Fire
-Madeleine Cookie; Fire
-Eivor; Fire
-Ciri; Fire
-RYU; Fire
-KEN; Fire
-M. BISON; Fire
-Pure Vanilla Cookie; Fire
-Hollyberry Cookie; Fire
-Ezio; Fire
-Bayek; Fire
-Kassandra; Fire
-Geralt; Fire
-Yennefer; Fire
-Triss; Fire
-Awakened Homunculus; Fire
-Slime; Water
-Forest Keeper; Water
-Mushroom; Water
-Ghost; Water
-Mimick; Water
-Horned Frog; Water
-Sandman; Water
-Maned Boar; Water
-Monster Flower; Water
-Surprise Box; Water
-Skull Soldier; Water
-Mischievous Bat; Water
-Battle Scorpion; Water
-Low Elemental; Water
-Imp; Water
-Pixie; Water
-Yeti; Water
-Hellhound; Water
-Elemental; Water
-Garuda; Water
-Salamander; Water
-Harpu; Water
-Howl; Water
-Viking; Water
-Vagabond; Water
-Fairy; Water
-Harpy; Water
-Warbear; Water
-Inugami; Water
-Serpent; Water
-Golem; Water
-Griffon; Water
-Inferno; Water
-High Elemental; Water
-Bearman; Water
-Werewolf; Water
-Amazon; Water
-Martial Cat; Water
-Epikion Priest; Water
-Magical Archer; Water
-Bounty Hunter; Water
-Imp Champion; Water
-Mystic Witch; Water
-Grim Reaper; Water
-Living Armor; Water
-Drunken Master; Water
-Minotauros; Water
-Lizardman; Water
-Beast Hunter; Water
-Penguin Knight; Water
-Battle Mammoth; Water
-Cow Girl; Water
-Charger Shark; Water
-Martial Artist; Water
-Mummy; Water
-Frankenstein; Water
-Elven Ranger; Water
-Harg; Water
-Giant Warrior; Water
-Nine-tailed Fox; Water
-Undine; Water
-Sylph; Water
-Sylphid; Water
-Succubus; Water
-Joker; Water
-Ninja; Water
-Pierret; Water
-Phantom Thief; Water
-Vampire; Water
-Rakshasa; Water
-Death Knight; Water
-Lich; Water
-Samurai; Water
-Kung Fu Girl; Water
-Brownie Magician; Water
-Kobold Bomber; Water
-Sky Dancer; Water
-Taoist; Water
-Barbaric King; Water
-Pirate Captain; Water
-Mermaid; Water
-Magic Knight; Water
-Assassin; Water
-Neostone Fighter; Water
-Neostone Agent; Water
-Anubis; Water
-Horus; Water
-Jack-o'-lantern; Water
-Dice Magician; Water
-Harp Magician; Water
-Chakram Dancer; Water
-Boomerang Warrior; Water
-Dryad; Water
-Sniper Mk.I; Water
-Cannon Girl; Water
-Gargoyle; Water
-String Master; Water
-Poison Master; Water
-Blade Dancer; Water
-Onimusha; Water
-ROBO; Water
-Rune Blacksmith; Water
-Hypnomeow; Water
-Black Tea Bunny; Water
-Choco Knight; Water
-Desert Warrior; Water
-Gladiatrix; Water
-Asura; Water
-Dokkaebi Princess and Sapsaree; Water
-Valkyrja; Water
-Dragon; Water
-Phoenix; Water
-Chimera; Water
-Oracle; Water
-Occult Girl; Water
-Dragon Knight; Water
-Monkey King; Water
-Archangel; Water
-Beast Monk; Water
-Hell Lady; Water
-Pioneer; Water
-Polar Queen; Water
-Ifrit; Water
-Sea Emperor; Water
-Desert Queen; Water
-Fairy King; Water
-Panda Warrior; Water
-Unicorn; Water
-Paladin; Water
-Druid; Water
-Lightning Emperor; Water
-Demon; Water
-Beast Rider; Water
-Art Master; Water
-Striker; Water
-Slayer; Water
-Onmyouji; Water
-Mage; Water
-Sky Surfer; Water
-Totemist; Water
-Weapon Master; Water
-Shadowcaster; Water
-Battle Angel; Water
-Pudding Princess; Water
-Macaron Guard; Water
-Puppeteer; Water
-Steel Commander; Water
-Mercenary Queen; Water
-Indra; Water
-Devil Maiden; Water
-Dokkaebi Lord; Water
-Twin Angels; Water
-Homunculus; Water
-DHALSIM; Water
-CHUN-LI; Water
-Espresso Cookie; Water
-Madeleine Cookie; Water
-Bayek; Water
-Kassandra; Water
-Triss; Water
-RYU; Water
-M. BISON; Water
-Pure Vanilla Cookie; Water
-Hollyberry Cookie; Water
-Ezio; Water
-Eivor; Water
-Geralt; Water
-Ciri; Water
-Yennefer; Water
-Awakened Homunculus; Water
-Slime; Wind
-Forest Keeper; Wind
-Mushroom; Wind
-Ghost; Wind
-Mimick; Wind
-Horned Frog; Wind
-Sandman; Wind
-Maned Boar; Wind
-Monster Flower; Wind
-Surprise Box; Wind
-Skull Soldier; Wind
-Mischievous Bat; Wind
-Battle Scorpion; Wind
-Low Elemental; Wind
-Fairy; Wind
-Imp; Wind
-Pixie; Wind
-Yeti; Wind
-Hellhound; Wind
-Warbear; Wind
-Elemental; Wind
-Garuda; Wind
-Salamander; Wind
-Harpu; Wind
-Howl; Wind
-Viking; Wind
-Vagabond; Wind
-Harpy; Wind
-Inugami; Wind
-Serpent; Wind
-Golem; Wind
-Griffon; Wind
-Inferno; Wind
-High Elemental; Wind
-Bearman; Wind
-Werewolf; Wind
-Amazon; Wind
-Martial Cat; Wind
-Epikion Priest; Wind
-Magical Archer; Wind
-Bounty Hunter; Wind
-Imp Champion; Wind
-Mystic Witch; Wind
-Grim Reaper; Wind
-Living Armor; Wind
-Drunken Master; Wind
-Minotauros; Wind
-Lizardman; Wind
-Beast Hunter; Wind
-Penguin Knight; Wind
-Battle Mammoth; Wind
-Cow Girl; Wind
-Charger Shark; Wind
-Martial Artist; Wind
-Mummy; Wind
-Frankenstein; Wind
-Elven Ranger; Wind
-Nine-tailed Fox; Wind
-Undine; Wind
-Sylph; Wind
-Sylphid; Wind
-Succubus; Wind
-Joker; Wind
-Ninja; Wind
-Pierret; Wind
-Phantom Thief; Wind
-Vampire; Wind
-Rakshasa; Wind
-Death Knight; Wind
-Lich; Wind
-Samurai; Wind
-Kung Fu Girl; Wind
-Brownie Magician; Wind
-Kobold Bomber; Wind
-Sky Dancer; Wind
-Taoist; Wind
-Barbaric King; Wind
-Pirate Captain; Wind
-Mermaid; Wind
-Magic Knight; Wind
-Assassin; Wind
-Neostone Fighter; Wind
-Neostone Agent; Wind
-Anubis; Wind
-Horus; Wind
-Jack-o'-lantern; Wind
-Harg; Wind
-Dice Magician; Wind
-Harp Magician; Wind
-Chakram Dancer; Wind
-Boomerang Warrior; Wind
-Dryad; Wind
-Giant Warrior; Wind
-Sniper Mk.I; Wind
-Gargoyle; Wind
-String Master; Wind
-Poison Master; Wind
-Blade Dancer; Wind
-Onimusha; Wind
-ROBO; Wind
-Rune Blacksmith; Wind
-Hypnomeow; Wind
-Black Tea Bunny; Wind
-Choco Knight; Wind
-Steel Commander; Wind
-Mercenary Queen; Wind
-Asura; Wind
-Dokkaebi Princess and Sapsaree; Wind
-Valkyrja; Wind
-Dragon; Wind
-Phoenix; Wind
-Chimera; Wind
-Oracle; Wind
-Occult Girl; Wind
-Dragon Knight; Wind
-Monkey King; Wind
-Archangel; Wind
-Beast Monk; Wind
-Hell Lady; Wind
-Pioneer; Wind
-Polar Queen; Wind
-Ifrit; Wind
-Sea Emperor; Wind
-Desert Queen; Wind
-Fairy King; Wind
-Panda Warrior; Wind
-Unicorn; Wind
-Paladin; Wind
-Druid; Wind
-Lightning Emperor; Wind
-Cannon Girl; Wind
-Demon; Wind
-Beast Rider; Wind
-Art Master; Wind
-Striker; Wind
-Slayer; Wind
-Onmyouji; Wind
-Mage; Wind
-Sky Surfer; Wind
-Totemist; Wind
-Weapon Master; Wind
-Shadowcaster; Wind
-Battle Angel; Wind
-Lollipop Warrior; Wind
-Pudding Princess; Wind
-Macaron Guard; Wind
-Puppeteer; Wind
-Desert Warrior; Wind
-Gladiatrix; Wind
-Indra; Wind
-Devil Maiden; Wind
-Dokkaebi Lord; Wind
-Twin Angels; Wind
-Homunculus; Wind
-DHALSIM; Wind
-CHUN-LI; Wind
-Espresso Cookie; Wind
-Madeleine Cookie; Wind
-Ezio; Wind
-Eivor; Wind
-Yennefer; Wind
-Triss; Wind
-RYU; Wind
-M. BISON; Wind
-GingerBrave; Wind
-Pure Vanilla Cookie; Wind
-Hollyberry Cookie; Wind
-Bayek; Wind
-Kassandra; Wind
-Geralt; Wind
-Ciri; Wind
-Awakened Homunculus; Wind
-Lightning Emperor; Light
-Lightning Emperor; Light
-Lightning Emperor; Light
-Surprise Box; Light
-Imp; Light
-Pixie; Light
-Yeti; Light
-Hellhound; Light
-Salamander; Light
-Howl; Light
-Viking; Light
-Fairy; Light
-Harpy; Light
-Warbear; Light
-Elemental; Light
-Garuda; Light
-Inugami; Light
-Serpent; Light
-Golem; Light
-Griffon; Light
-Inferno; Light
-High Elemental; Light
-Harpu; Light
-Bearman; Light
-Werewolf; Light
-Amazon; Light
-Martial Cat; Light
-Vagabond; Light
-Bounty Hunter; Light
-Imp Champion; Light
-Mystic Witch; Light
+Slime; Fire; 102
+Forest Keeper; Fire; 88
+Horned Frog; Fire; 100
+Mimick; Fire; 86
+Sandman; Fire; 102
+Low Elemental; Fire; 100
+Mushroom; Fire; 104
+Ghost; Fire; 101
+Maned Boar; Fire; 93
+Monster Flower; Fire; 95
+Surprise Box; Fire; 92
+Skull Soldier; Fire; 99
+Mischievous Bat; Fire; 105
+Battle Scorpion; Fire; 103
+Imp; Fire; 115
+Pixie; Fire; 111
+Yeti; Fire; 101
+Hellhound; Fire; 110
+Warbear; Fire; 102
+Elemental; Fire; 107
+Garuda; Fire; 93
+Harpu; Fire; 106
+Howl; Fire; 99
+Fairy; Fire; 102
+Harpy; Fire; 103
+Inugami; Fire; 108
+Salamander; Fire; 99
+Serpent; Fire; 100
+Golem; Fire; 89
+Griffon; Fire; 126
+Inferno; Fire; 95
+High Elemental; Fire; 102
+Bearman; Fire; 101
+Werewolf; Fire; 115
+Viking; Fire; 97
+Amazon; Fire; 102
+Martial Cat; Fire; 104
+Vagabond; Fire; 98
+Magical Archer; Fire; N/A
+Bounty Hunter; Fire; 110
+Imp Champion; Fire; 102
+Mystic Witch; Fire; 97
+Grim Reaper; Fire; 91
+Living Armor; Fire; 98
+Drunken Master; Fire; 99
+Minotauros; Fire; 99
+Lizardman; Fire; 103
+Taoist; Fire; 104
+Beast Hunter; Fire; 100
+Penguin Knight; Fire; 105
+Battle Mammoth; Fire; 99
+Cow Girl; Fire; 102
+Charger Shark; Fire; 105
+Martial Artist; Fire; 99
+Mummy; Fire; 97
+Frankenstein; Fire; 98
+Elven Ranger; Fire; 101
+Harg; Fire; 105
+Giant Warrior; Fire; 96
+Nine-tailed Fox; Fire; 102
+Undine; Fire; 96
+Sylph; Fire; 105
+Sylphid; Fire; 103
+Succubus; Fire; 106
+Joker; Fire; 103
+Ninja; Fire; 107
+Pierret; Fire; 103
+Phantom Thief; Fire; 105
+Vampire; Fire; 99
+Epikion Priest; Fire; 111
+Rakshasa; Fire; 104
+Death Knight; Fire; 101
+Lich; Fire; 96
+Samurai; Fire; 103
+Kung Fu Girl; Fire; 102
+Brownie Magician; Fire; 106
+Kobold Bomber; Fire; 99
+Sky Dancer; Fire; 101
+Barbaric King; Fire; 103
+Pirate Captain; Fire; 108
+Mermaid; Fire; 95
+Magic Knight; Fire; 105
+Assassin; Fire; 117
+Neostone Fighter; Fire; 107
+Neostone Agent; Fire; 104
+Anubis; Fire; 101
+Horus; Fire; 102
+Jack-o'-lantern; Fire; 101
+Dice Magician; Fire; 102
+Harp Magician; Fire; 98
+Chakram Dancer; Fire; 103
+Boomerang Warrior; Fire; 101
+Dryad; Fire; 104
+Sniper Mk.I; Fire; 112
+Cannon Girl; Fire; 103
+Gargoyle; Fire; 93
+String Master; Fire; 107
+Rune Blacksmith; Fire; 100
+Valkyrja; Fire; 101
+Dragon; Fire; 94
+Phoenix; Fire; 114
+Chimera; Fire; 95
+Oracle; Fire; 100
+Occult Girl; Fire; 105
+Dragon Knight; Fire; 100
+Monkey King; Fire; 116
+Archangel; Fire; 101
+Beast Monk; Fire; 96
+Hell Lady; Fire; 104
+Pioneer; Fire; 103
+Polar Queen; Fire; 111
+Ifrit; Fire; 100
+Sea Emperor; Fire; 101
+Desert Queen; Fire; 114
+Fairy King; Fire; 98
+Panda Warrior; Fire; 96
+Unicorn; Fire; 100
+Paladin; Fire; 102
+Druid; Fire; 99
+Lightning Emperor; Fire; 102
+Demon; Fire; 104
+Beast Rider; Fire; 123
+Triss; Wind; 101
+Devilmon; Dark; N/A
+Rainbowmon; Light; N/A
+Fairy Queen; Light; 103

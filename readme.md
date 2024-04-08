@@ -1,6 +1,7 @@
 # Summoners War Monsters Image Scraper
 
-This Python script is designed to automatically download monster images from the Summoners War game's monster collection, available on the Summoners War Wiki. The images are categorized by element (Fire, Water, Wind, Light, Dark) and saved in corresponding folders.
+This Python script is designed to automatically download monster images from the Summoners War game's monster collection, available on the Summoners War Wiki. 
+The images are categorized by element (Fire, Water, Wind, Light, Dark) and saved in corresponding folders.
 
 ## How It Works
 
@@ -30,7 +31,8 @@ python main.py
 
 ## Data Organization
 
-The downloaded images are organized into folders by element, under the main folder `SummonersWarMonsters`. Each element folder contains the corresponding monsters' images and a `list{element}.txt` file that lists the names of the downloaded images.
+The downloaded images are organized into folders by element, under the main folder `SummonersWarMonsters`. 
+Each element folder contains the corresponding monsters' images.
 
 Example of folder structure:
 
@@ -40,17 +42,18 @@ SummonersWarMonsters/
 ├── Fire/
 │   ├── monster1.png
 │   ├── monster2.png
-│   └── listFire.txt
+│   └── monster3.png
 │
 ├── Water/
 │   ├── monster1.png
 │   ├── monster2.png
-│   └── listWater.txt
+│   └── monster3.png
 │
 ... etc.
 ```
 
-In db.txt, there is all result (monster, attribute).
+In db.txt, there is all result (monster, attribute, speed).
+Same DB for awake, db_awake.
 
 ## Respect for the Website
 
@@ -63,3 +66,5 @@ This script is intended for educational and research purposes. Make sure you hav
 
 This `README.md` provides a general overview of what the script does, how to install and run it, and an explanation of how the downloaded files are organized. 
 Make sure to adjust the instructions and descriptions according to the specifics of your script and the exact dependencies.
+
+ALL rights monsters/image: COM2US Summoners War. Not affiliate with COM2US.
