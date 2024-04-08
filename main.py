@@ -65,7 +65,7 @@ def download_image(folder_path, img_url, clean_name, img_page_url):
     img_path = os.path.join(folder_path, clean_name)
     if not os.path.exists(img_path):
         try:
-            time.sleep(.2)  # Respectful delay to avoid overloading the server
+            time.sleep(1)  # Respectful delay to avoid overloading the server
             response = requests.get(img_url, verify=False)
             with open(img_path, 'wb') as f:
                 f.write(response.content)
