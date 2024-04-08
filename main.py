@@ -4,6 +4,25 @@ from bs4 import BeautifulSoup
 import re
 import time
 
+# database txt / clean before
+db = "db.txt"
+with open(db, 'w') as file:
+    file.write("")
+
+def parse_monster_name(img_name):
+    """Extracts and returns the monster's name and element from the image name."""
+    name_pattern = re.compile(r"(.+?)\s\((\w+)\)\sIcon\.png")
+    match = name_pattern.match(img_name)
+    if match:
+        return match.group(1)
+    return None
+
+def store_db(clean_name, element):
+    name = parse_monster_name(clean_name)
+
+    with open(db, 'a') as file:
+        file.write(f"{name}; {element}\n")
+
 def clean_filename(filename):
     """Cleans the filename to make it compatible with the file system."""
     return re.sub(r'[\\/*?:"<>|]', '_', filename)
@@ -52,6 +71,7 @@ for url in urls:
         if img_url and not img_url.startswith('data:image') and ")" in img_name and not "Angelmon" in img_name and not "(Second" in img_name:
             if element in img_name:
                 clean_name = clean_filename(img_name)
+                store_db(clean_name, element)
                 download_image(folder_path, img_url, clean_name)
 
 print("Download completed.")

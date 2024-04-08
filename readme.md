@@ -50,6 +50,8 @@ SummonersWarMonsters/
 ... etc.
 ```
 
+In db.txt, there is all result (monster, attribute).
+
 ## Respect for the Website
 
 To be respectful to the website and to avoid overloading its server, the script introduces a one-second delay between each image download.
