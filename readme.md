@@ -68,3 +68,4 @@ This `README.md` provides a general overview of what the script does, how to ins
 Make sure to adjust the instructions and descriptions according to the specifics of your script and the exact dependencies.
 
 ALL rights monsters/image: COM2US Summoners War. Not affiliate with COM2US.
+Special thanks to Fandom for their work !
