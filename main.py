@@ -135,7 +135,7 @@ for url in urls:
         
         if img_url and not img_url.startswith('data:image') and ")" in img_name and not "Angelmon" in img_name and not "(Second" in img_name: #si non awake
             if element in img_name and not "(" in element:
-                if not str(parse_monster_name(clean_name)) in str(dbvalues):
+                if not str(parse_monster_name(clean_name)+"; "+element) in str(dbvalues):
                     speed = get_monster_speed(img_page_url)
                     download_image(folder_path, img_url, clean_name, img_page_url)
                     store_db(clean_name, element, speed, False)

@@ -121,6 +121,591 @@ Lightning Emperor; Fire; 102
 Demon; Fire; 104
 Beast Rider; Fire; 123
 Triss; Wind; 101
-Devilmon; Dark; N/A
-Rainbowmon; Light; N/A
 Fairy Queen; Light; 103
+Slime; Fire; 102
+Forest Keeper; Fire; 88
+Horned Frog; Fire; 100
+Mimick; Fire; 86
+Sandman; Fire; 102
+Low Elemental; Fire; 100
+Mushroom; Fire; 104
+Ghost; Fire; 101
+Maned Boar; Fire; 93
+Monster Flower; Fire; 95
+Surprise Box; Fire; 92
+Skull Soldier; Fire; 99
+Mischievous Bat; Fire; 105
+Battle Scorpion; Fire; 103
+Imp; Fire; 115
+Pixie; Fire; 111
+Yeti; Fire; 101
+Hellhound; Fire; 110
+Warbear; Fire; 102
+Elemental; Fire; 107
+Garuda; Fire; 93
+Harpu; Fire; 106
+Howl; Fire; 99
+Fairy; Fire; 102
+Harpy; Fire; 103
+Inugami; Fire; 108
+Salamander; Fire; 99
+Serpent; Fire; 100
+Golem; Fire; 89
+Griffon; Fire; 126
+Inferno; Fire; 95
+High Elemental; Fire; 102
+Bearman; Fire; 101
+Werewolf; Fire; 115
+Viking; Fire; 97
+Amazon; Fire; 102
+Martial Cat; Fire; 104
+Vagabond; Fire; 98
+Magical Archer; Fire; N/A
+Bounty Hunter; Fire; 110
+Imp Champion; Fire; 102
+Mystic Witch; Fire; 97
+Grim Reaper; Fire; 91
+Living Armor; Fire; 98
+Drunken Master; Fire; 99
+Minotauros; Fire; 99
+Lizardman; Fire; 103
+Taoist; Fire; 104
+Beast Hunter; Fire; 100
+Penguin Knight; Fire; 105
+Battle Mammoth; Fire; 99
+Cow Girl; Fire; 102
+Charger Shark; Fire; 105
+Martial Artist; Fire; 99
+Mummy; Fire; 97
+Frankenstein; Fire; 98
+Elven Ranger; Fire; 101
+Harg; Fire; 105
+Giant Warrior; Fire; 96
+Nine-tailed Fox; Fire; 102
+Undine; Fire; 96
+Sylph; Fire; 105
+Sylphid; Fire; 103
+Succubus; Fire; 106
+Joker; Fire; 103
+Ninja; Fire; 107
+Pierret; Fire; 103
+Phantom Thief; Fire; 105
+Vampire; Fire; 99
+Epikion Priest; Fire; 111
+Rakshasa; Fire; 104
+Death Knight; Fire; 101
+Lich; Fire; 96
+Samurai; Fire; 103
+Kung Fu Girl; Fire; 102
+Brownie Magician; Fire; 106
+Kobold Bomber; Fire; 99
+Sky Dancer; Fire; 101
+Barbaric King; Fire; 103
+Pirate Captain; Fire; 108
+Mermaid; Fire; 95
+Magic Knight; Fire; 105
+Assassin; Fire; 117
+Neostone Fighter; Fire; 107
+Neostone Agent; Fire; 104
+Anubis; Fire; 101
+Horus; Fire; 102
+Jack-o'-lantern; Fire; 101
+Dice Magician; Fire; 102
+Harp Magician; Fire; 98
+Chakram Dancer; Fire; 103
+Boomerang Warrior; Fire; 101
+Dryad; Fire; 104
+Sniper Mk.I; Fire; 112
+Cannon Girl; Fire; 103
+Gargoyle; Fire; 93
+String Master; Fire; 107
+Rune Blacksmith; Fire; 100
+Valkyrja; Fire; 101
+Dragon; Fire; 94
+Phoenix; Fire; 114
+Chimera; Fire; 95
+Oracle; Fire; 100
+Occult Girl; Fire; 105
+Dragon Knight; Fire; 100
+Monkey King; Fire; 116
+Archangel; Fire; 101
+Beast Monk; Fire; 96
+Hell Lady; Fire; 104
+Pioneer; Fire; 103
+Polar Queen; Fire; 111
+Ifrit; Fire; 100
+Sea Emperor; Fire; 101
+Desert Queen; Fire; 114
+Fairy King; Fire; 98
+Panda Warrior; Fire; 96
+Unicorn; Fire; 100
+Paladin; Fire; 102
+Druid; Fire; 99
+Lightning Emperor; Fire; 102
+Demon; Fire; 104
+Beast Rider; Fire; 123
+Slime; Water; 102
+Forest Keeper; Water; 88
+Horned Frog; Water; 100
+Mimick; Water; 86
+Sandman; Water; 102
+Low Elemental; Water; 100
+Mushroom; Water; 104
+Ghost; Water; 101
+Maned Boar; Water; 93
+Monster Flower; Water; 95
+Surprise Box; Water; 92
+Skull Soldier; Water; 99
+Mischievous Bat; Water; 105
+Battle Scorpion; Water; 103
+Imp; Water; 111
+Pixie; Water; 111
+Yeti; Water; 101
+Hellhound; Water; 115
+Elemental; Water; 107
+Garuda; Water; 91
+Salamander; Water; 99
+Harpu; Water; 106
+Howl; Water; 99
+Viking; Water; 97
+Vagabond; Water; 98
+Fairy; Water; 104
+Harpy; Water; 105
+Warbear; Water; 102
+Inugami; Water; 108
+Serpent; Water; 115
+Golem; Water; 87
+Griffon; Water; 111
+Inferno; Water; 97
+High Elemental; Water; 103
+Bearman; Water; 101
+Werewolf; Water; 115
+Amazon; Water; 102
+Martial Cat; Water; 119
+Epikion Priest; Water; 96
+Magical Archer; Water; 105
+Bounty Hunter; Water; 110
+Imp Champion; Water; 102
+Mystic Witch; Water; 97
+Grim Reaper; Water; 91
+Living Armor; Water; 98
+Drunken Master; Water; 99
+Minotauros; Water; 99
+Lizardman; Water; 103
+Beast Hunter; Water; 100
+Penguin Knight; Water; 105
+Battle Mammoth; Water; 99
+Cow Girl; Water; 102
+Charger Shark; Water; 105
+Martial Artist; Water; 99
+Mummy; Water; 97
+Frankenstein; Water; 98
+Elven Ranger; Water; 101
+Harg; Water; 105
+Giant Warrior; Water; 111
+Nine-tailed Fox; Water; 102
+Undine; Water; 96
+Sylph; Water; 105
+Sylphid; Water; 103
+Succubus; Water; 106
+Joker; Water; 103
+Ninja; Water; 107
+Pierret; Water; 103
+Phantom Thief; Water; 105
+Vampire; Water; 99
+Rakshasa; Water; 104
+Death Knight; Water; 101
+Lich; Water; 96
+Samurai; Water; 103
+Kung Fu Girl; Water; 102
+Brownie Magician; Water; 106
+Kobold Bomber; Water; 99
+Sky Dancer; Water; 101
+Taoist; Water; 104
+Barbaric King; Water; 103
+Pirate Captain; Water; 108
+Mermaid; Water; 110
+Magic Knight; Water; 90
+Assassin; Water; 102
+Neostone Fighter; Water; 107
+Neostone Agent; Water; 104
+Anubis; Water; 101
+Horus; Water; 102
+Jack-o'-lantern; Water; 101
+Dice Magician; Water; 102
+Harp Magician; Water; 98
+Chakram Dancer; Water; 103
+Boomerang Warrior; Water; 101
+Dryad; Water; 104
+Sniper Mk.I; Water; 97
+Cannon Girl; Water; 103
+Gargoyle; Water; 93
+String Master; Water; 107
+Valkyrja; Water; 101
+Dragon; Water; 93
+Phoenix; Water; 99
+Chimera; Water; 95
+Oracle; Water; 100
+Occult Girl; Water; 105
+Dragon Knight; Water; 100
+Monkey King; Water; 115
+Archangel; Water; 100
+Beast Monk; Water; 96
+Hell Lady; Water; 104
+Pioneer; Water; 118
+Polar Queen; Water; 96
+Ifrit; Water; 100
+Sea Emperor; Water; 101
+Desert Queen; Water; 99
+Fairy King; Water; 98
+Panda Warrior; Water; 96
+Unicorn; Water; 100
+Paladin; Water; 102
+Druid; Water; 99
+Lightning Emperor; Water; 102
+Demon; Water; 104
+Slime; Wind; 102
+Forest Keeper; Wind; 88
+Horned Frog; Wind; 100
+Mimick; Wind; 86
+Sandman; Wind; 102
+Low Elemental; Wind; 100
+Mushroom; Wind; 104
+Ghost; Wind; 101
+Maned Boar; Wind; 93
+Monster Flower; Wind; 95
+Surprise Box; Wind; 92
+Skull Soldier; Wind; 99
+Mischievous Bat; Wind; 105
+Battle Scorpion; Wind; 103
+Fairy; Wind; 104
+Imp; Wind; 113
+Pixie; Wind; 111
+Yeti; Wind; 101
+Hellhound; Wind; 113
+Warbear; Wind; 102
+Elemental; Wind; 107
+Garuda; Wind; 91
+Salamander; Wind; 99
+Harpu; Wind; 108
+Howl; Wind; 99
+Viking; Wind; 97
+Vagabond; Wind; 98
+Harpy; Wind; 105
+Inugami; Wind; 108
+Serpent; Wind; 100
+Golem; Wind; 92
+Griffon; Wind; 111
+Inferno; Wind; 98
+High Elemental; Wind; 105
+Bearman; Wind; 101
+Werewolf; Wind; 115
+Amazon; Wind; 102
+Martial Cat; Wind; 119
+Epikion Priest; Wind; 96
+Magical Archer; Wind; 105
+Bounty Hunter; Wind; 110
+Imp Champion; Wind; 102
+Mystic Witch; Wind; 97
+Grim Reaper; Wind; 91
+Living Armor; Wind; 98
+Drunken Master; Wind; 99
+Minotauros; Wind; 99
+Lizardman; Wind; 103
+Beast Hunter; Wind; 100
+Penguin Knight; Wind; 105
+Battle Mammoth; Wind; 99
+Cow Girl; Wind; 117
+Charger Shark; Wind; 105
+Martial Artist; Wind; 114
+Mummy; Wind; 97
+Frankenstein; Wind; 98
+Elven Ranger; Wind; 101
+Nine-tailed Fox; Wind; 102
+Undine; Wind; 96
+Sylph; Wind; 106
+Sylphid; Wind; 104
+Succubus; Wind; 106
+Joker; Wind; 103
+Ninja; Wind; 107
+Pierret; Wind; 103
+Phantom Thief; Wind; 105
+Vampire; Wind; 99
+Rakshasa; Wind; 104
+Death Knight; Wind; 116
+Lich; Wind; 96
+Samurai; Wind; 103
+Kung Fu Girl; Wind; 102
+Brownie Magician; Wind; 106
+Kobold Bomber; Wind; 99
+Sky Dancer; Wind; 101
+Taoist; Wind; 104
+Barbaric King; Wind; 103
+Pirate Captain; Wind; 108
+Mermaid; Wind; 95
+Magic Knight; Wind; 90
+Assassin; Wind; 102
+Neostone Fighter; Wind; 107
+Neostone Agent; Wind; 104
+Anubis; Wind; 101
+Horus; Wind; 102
+Jack-o'-lantern; Wind; 101
+Harg; Wind; 105
+Dice Magician; Wind; 102
+Harp Magician; Wind; 113
+Chakram Dancer; Wind; 103
+Boomerang Warrior; Wind; 101
+Dryad; Wind; 104
+Giant Warrior; Wind; 96
+Sniper Mk.I; Wind; 112
+Gargoyle; Wind; 93
+String Master; Wind; 107
+Valkyrja; Wind; 116
+Dragon; Wind; 113
+Phoenix; Wind; 114
+Chimera; Wind; 110
+Oracle; Wind; 100
+Occult Girl; Wind; 105
+Dragon Knight; Wind; 100
+Monkey King; Wind; 117
+Archangel; Wind; 110
+Beast Monk; Wind; 96
+Hell Lady; Wind; 119
+Pioneer; Wind; 103
+Polar Queen; Wind; 96
+Ifrit; Wind; 100
+Sea Emperor; Wind; 116
+Desert Queen; Wind; 99
+Fairy King; Wind; 113
+Panda Warrior; Wind; 96
+Unicorn; Wind; 100
+Paladin; Wind; 102
+Druid; Wind; 99
+Lightning Emperor; Wind; 102
+Cannon Girl; Wind; 103
+Demon; Wind; 104
+Triss; Wind; 101
+Devilmon; Dark; N/A
+Horned Frog; Dark; 100
+Mimick; Dark; 86
+Sandman; Dark; 102
+Low Elemental; Dark; 100
+Ghost; Dark; 101
+Monster Flower; Dark; 95
+Surprise Box; Dark; 92
+Fairy; Dark; 102
+Imp; Dark; 112
+Pixie; Dark; 111
+Warbear; Dark; 102
+Garuda; Dark; 93
+Salamander; Dark; 99
+Howl; Dark; 99
+Yeti; Dark; 101
+Harpy; Dark; 104
+Hellhound; Dark; 113
+Elemental; Dark; 122
+Inugami; Dark; 108
+Serpent; Dark; 100
+Golem; Dark; 104
+Griffon; Dark; 111
+Inferno; Dark; 95
+High Elemental; Dark; 104
+Harpu; Dark; 104
+Bearman; Dark; 101
+Werewolf; Dark; 115
+Viking; Dark; 97
+Amazon; Dark; 102
+Martial Cat; Dark; 119
+Vagabond; Dark; 113
+Epikion Priest; Dark; 96
+Bounty Hunter; Dark; 110
+Imp Champion; Dark; 102
+Mystic Witch; Dark; 97
+Grim Reaper; Dark; 91
+Living Armor; Dark; 98
+Drunken Master; Dark; 99
+Minotauros; Dark; 99
+Lizardman; Dark; 103
+Beast Hunter; Dark; 100
+Taoist; Dark; 104
+Penguin Knight; Dark; 105
+Battle Mammoth; Dark; 99
+Cow Girl; Dark; 102
+Charger Shark; Dark; 105
+Martial Artist; Dark; 99
+Mummy; Dark; 97
+Frankenstein; Dark; 98
+Harg; Dark; 120
+Nine-tailed Fox; Dark; 102
+Undine; Dark; 96
+Sylph; Dark; 105
+Sylphid; Dark; 103
+Succubus; Dark; 106
+Joker; Dark; 103
+Pierret; Dark; 103
+Phantom Thief; Dark; 105
+Magical Archer; Dark; 120
+Rakshasa; Dark; 104
+Death Knight; Dark; 101
+Lich; Dark; 96
+Samurai; Dark; 105
+Kung Fu Girl; Dark; 102
+Brownie Magician; Dark; 106
+Kobold Bomber; Dark; 99
+Barbaric King; Dark; 103
+Pirate Captain; Dark; 108
+Mermaid; Dark; 110
+Magic Knight; Dark; 90
+Assassin; Dark; 102
+Neostone Fighter; Dark; 107
+Horus; Dark; 102
+Jack-o'-lantern; Dark; 101
+Elven Ranger; Dark; 101
+Dice Magician; Dark; 102
+Chakram Dancer; Dark; 103
+Boomerang Warrior; Dark; 101
+Dryad; Dark; 104
+Giant Warrior; Dark; 96
+Sniper Mk.I; Dark; 97
+Gargoyle; Dark; 93
+String Master; Dark; 107
+Ninja; Dark; 107
+Valkyrja; Dark; 101
+Dragon; Dark; 95
+Phoenix; Dark; 99
+Chimera; Dark; 95
+Vampire; Dark; 99
+Oracle; Dark; 100
+Occult Girl; Dark; 105
+Dragon Knight; Dark; 100
+Monkey King; Dark; 118
+Archangel; Dark; 95
+Beast Monk; Dark; 96
+Hell Lady; Dark; 104
+Sky Dancer; Dark; 101
+Pioneer; Dark; 118
+Polar Queen; Dark; 96
+Ifrit; Dark; 100
+Sea Emperor; Dark; 101
+Neostone Agent; Dark; 104
+Anubis; Dark; 101
+Desert Queen; Dark; 99
+Fairy King; Dark; 98
+Panda Warrior; Dark; 111
+Harp Magician; Dark; 113
+Unicorn; Dark; 100
+Paladin; Dark; 102
+Druid; Dark; 99
+Lightning Emperor; Dark; 102
+Cannon Girl; Dark; 103
+Demon; Dark; 104
+Rainbowmon; Light; N/A
+Surprise Box; Light; 92
+Imp; Light; 114
+Pixie; Light; 111
+Yeti; Light; 101
+Hellhound; Light; 111
+Salamander; Light; 99
+Howl; Light; 99
+Viking; Light; 97
+Fairy; Light; 101
+Harpy; Light; 120
+Warbear; Light; 102
+Elemental; Light; 107
+Garuda; Light; 95
+Inugami; Light; 108
+Serpent; Light; 100
+Golem; Light; 91
+Griffon; Light; 111
+Inferno; Light; 95
+High Elemental; Light; 104
+Harpu; Light; 105
+Bearman; Light; 101
+Werewolf; Light; 115
+Amazon; Light; 102
+Martial Cat; Light; 104
+Vagabond; Light; 98
+Bounty Hunter; Light; 110
+Imp Champion; Light; 102
+Mystic Witch; Light; 97
+Grim Reaper; Light; 91
+Living Armor; Light; 98
+Drunken Master; Light; 99
+Minotauros; Light; 99
+Lizardman; Light; 103
+Beast Hunter; Light; 100
+Fairy Queen; Light; 103
+Penguin Knight; Light; 105
+Battle Mammoth; Light; 99
+Charger Shark; Light; 105
+Martial Artist; Light; 99
+Mummy; Light; 97
+Frankenstein; Light; 98
+Elven Ranger; Light; 101
+Cow Girl; Light; 102
+Nine-tailed Fox; Light; 102
+Undine; Light; 96
+Sylph; Light; 105
+Sylphid; Light; 103
+Succubus; Light; 106
+Joker; Light; 103
+Ninja; Light; 107
+Pierret; Light; 103
+Phantom Thief; Light; 105
+Epikion Priest; Light; 111
+Magical Archer; Light; 105
+Rakshasa; Light; 104
+Death Knight; Light; 101
+Lich; Light; 96
+Samurai; Light; 120
+Kung Fu Girl; Light; 102
+Brownie Magician; Light; 106
+Kobold Bomber; Light; 99
+Taoist; Light; 104
+Barbaric King; Light; 103
+Pirate Captain; Light; 108
+Mermaid; Light; 95
+Magic Knight; Light; 105
+Assassin; Light; 102
+Neostone Fighter; Light; 107
+Neostone Agent; Light; 104
+Anubis; Light; 101
+Jack-o'-lantern; Light; 101
+Harg; Light; 105
+Dice Magician; Light; 102
+Chakram Dancer; Light; 103
+Boomerang Warrior; Light; 101
+Dryad; Light; 104
+Giant Warrior; Light; 96
+Sniper Mk.I; Light; 97
+Cannon Girl; Light; 103
+Gargoyle; Light; 93
+String Master; Light; 107
+Valkyrja; Light; 116
+Dragon; Light; 98
+Phoenix; Light; 99
+Chimera; Light; 95
+Vampire; Light; 99
+Oracle; Light; 100
+Occult Girl; Light; 119
+Dragon Knight; Light; 100
+Monkey King; Light; 114
+Archangel; Light; 95
+Beast Monk; Light; 96
+Hell Lady; Light; 104
+Sky Dancer; Light; 116
+Pioneer; Light; 103
+Polar Queen; Light; 111
+Ifrit; Light; 100
+Sea Emperor; Light; 101
+Horus; Light; 102
+Desert Queen; Light; 99
+Fairy King; Light; 98
+Panda Warrior; Light; 96
+Harp Magician; Light; 113
+Unicorn; Light; 100
+Paladin; Light; 102
+Druid; Light; 99
+Lightning Emperor; Light; 102
+Demon; Light; 104
+Triss; Light; 101
